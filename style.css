@@ -1,0 +1,13 @@
+b{
+    font-size: 15px;
+}
+
+#footer{
+    bottom: 0;
+}
+
+canvas{
+    margin-top: 20px;
+    background-color: lightcoral;
+    border: 5px ridge purple;
+}
